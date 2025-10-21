@@ -12,5 +12,5 @@
 ---
 
 ## More About Me
-- 💬 [My Blog](https$colon$/your-blog-url.github.io)
-- 📧 [Email](mailto:your-email@example.com)
+- 💬 [My Blog](https$colon$/[your-blog-url.github.io](https://peussd55.github.io/))
+- 📧 [Email](mailto:your-balet99c@gmail.com)
