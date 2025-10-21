@@ -12,4 +12,4 @@
 ---
 
 ## More About Me
-- 💬 [My Blog]([https$colon$/peussd55.github.io]
+- 💬 [[https://your-blog-url.github.io](https://peussd55.github.io/)]
