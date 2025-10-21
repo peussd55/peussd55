@@ -12,4 +12,4 @@
 ---
 
 ## More About Me
-- 💬 [[Blog](https://peussd55.github.io/)]
+- 💬 [Blog](https://peussd55.github.io/)
