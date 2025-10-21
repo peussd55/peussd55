@@ -11,4 +11,4 @@
 
 ---
 
-More About Me -> [블로그 포트폴리오](https://peussd55.github.io/)
+More About Me -> [My Blog](https://peussd55.github.io/)
