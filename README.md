@@ -12,5 +12,4 @@
 ---
 
 ## More About Me
-- 💬 [My Blog](https$colon$/peussd55.github.io)
-- 📧 [Email](mailto:your-balet99c@gmail.com)
+- 💬 [My Blog]([https$colon$/peussd55.github.io]
