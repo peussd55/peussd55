@@ -14,10 +14,10 @@
 
 | 저장소 | 요약 |
 |---|---|
-| [**Transformer**](https://github.com/lemonade_paper_review_repo/Transformer.pdf) | Transformer & Seq2Seq with Attention 리뷰 |
-| [**GPT & BERT**](https://github.com/lemonade_paper_review_repo/Bert_GPT.pdf) | GPT-1·2·3 & BERT 사전학습 패러다임 리뷰 |
-| [**ViT & Swin 1,2**](https://github.com/lemonade_paper_review_repo/Vision-Transformer.pdf) | Vision Transformer & Swin Transformer v1/v2 리뷰 |
-| [**SAM 1,2**](https://github.com/lemonade_paper_review_repo/SAM2) | SAM & SAM 2 세그멘테이션 리뷰 |
+| [**Transformer**](https://github.io/lemonade_paper_review_repo/Transformer.pdf) | Transformer & Seq2Seq with Attention 리뷰 |
+| [**GPT & BERT**](https://github.io/lemonade_paper_review_repo/Bert_GPT.pdf) | GPT-1·2·3 & BERT 사전학습 패러다임 리뷰 |
+| [**ViT & Swin 1,2**](https://github.io/lemonade_paper_review_repo/Vision-Transformer.pdf) | Vision Transformer & Swin Transformer v1/v2 리뷰 |
+| [**SAM 1,2**](https://github.io/lemonade_paper_review_repo/SAM2) | SAM & SAM 2 세그멘테이션 리뷰 |
 
 ---
 
