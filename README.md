@@ -8,7 +8,7 @@
 | [**image processing studio**](https://github.com/peussd55/Img_processing_studio) | PyQt5 GUI와 OpenCV 연산을 결합해 이미지 회전, 스케일 조절, 색상 보정, 에지 필터, 만화/유화 효과, 얼굴·성별 분류 등 다양한 컴퓨터 비전 기능을 실험할 수 있는 데스크톱 툴킷입니다}. |
 | [**data visualization**](https://github.com/peussd55/data_visualization) | KOSIS 2016 행정구역별 인구 데이터를 활용해 대한민국의 인구 구조를 시각화하는 Colab 노트북입니다. 연령대 인구 피라미드, 인구 구조 유사도 분석, 격자 지도와 Choropleth 지도 등을 통해 공간적 패턴을 탐구합니다. |
 | [**OCKRA & m‑OCKRA**](https://github.com/peussd55/OCKRA_mOCKRA) | 웨어러블 센서 기반 정상 활동 데이터를 이용해 이상 징후를 탐지하는 OCKRA/m‑OCKRA 알고리즘을 재현한 실험 노트북입니다. 데이터 전처리, 하이퍼파라미터 탐색, 통계 검정과 시각화를 포함합니다. |
-| [**classification_chatbot **](https://github.com/peussd55/classification_chatbot)) | 법정감염병 진단명을 입력하면 TF-IDF와 코사인 유사도로 최적 감염병 코드와 유사 질병명을 추천하는 Streamlit 기반 NLP 분류 앱입니다. |
+| [**classification_chatbot **](https://github.com/peussd55/classification_chatbot) | 법정감염병 진단명을 입력하면 TF-IDF와 코사인 유사도로 최적 감염병 코드와 유사 질병명을 추천하는 Streamlit 기반 NLP 분류 앱입니다. |
 
 ---
 
