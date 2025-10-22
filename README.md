@@ -7,7 +7,8 @@
 
 | 저장소 | 요약 |
 |---|---|
-| [**AI‑Study**](https://github.com/peussd55/AI-Study) | TensorFlow·PyTorch을 이용한 DNN·CNN·RNN·NLP 아키텍처 구현, Scikit-learn·Pandas·Boosting을 이용한 데이터 전처리 및 하이퍼파라미터 튜닝/앙상블 구현, Auto Encoder 실습 |
+| [**AI‑Study**](https://github.com/peussd55/AI-Study) | - TensorFlow, PyTorch 등 딥러닝 라이브러리로 이미지, 텍스트데이터의 DNN·CNN·RNN·NLP 실습 및 모델 아키텍처 구현
+- Scikit-learn의 ML모델 및 Boosting 모델(XGboost, Catboost, LightGBM)을 활용하여 하이퍼파라미터 튜닝 및 앙상블모델을 구성 |
 | [**BindQ**](https://github.com/peussd55/BindQ) | 구조 기반 결합제 설계를 위한 여러 연구 도구를 FastAPI·Gradio 플랫폼으로 통합한 저장소입니다. 결합부위 예측, De novo 백본 설계(RFdiffusion), 서열 생성(ProteinMPNN), 도킹 검증(PRODIGY) 등의 모듈을 순차적으로 실행할 수 있습니다. |
 | [**make‑video**](https://github.com/peussd55/make-video) | MP4 배경 영상과 여러 MP3 트랙을 합성해 브랜디드 영상을 생성하고 Google Drive로 업로드하는 Flask REST API입니다. FFmpeg를 이용한 비디오/오디오 병합, 로고 오버레이, 웹훅 기반 비동기 처리 기능을 제공합니다. |
 | [**image processing studio**](https://github.com/peussd55/Img_processing_studio) | PyQt5 GUI와 OpenCV 연산을 결합해 이미지 회전, 스케일 조절, 색상 보정, 에지 필터, 만화/유화 효과, 얼굴·성별 분류 등 다양한 컴퓨터 비전 기능을 실험할 수 있는 데스크톱 툴킷입니다. |
