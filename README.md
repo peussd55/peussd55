@@ -10,6 +10,15 @@
 | [**OCKRA & m‑OCKRA**](https://github.com/peussd55/OCKRA_mOCKRA) | 웨어러블 센서 기반 정상 활동 데이터를 이용해 이상 징후를 탐지하는 OCKRA/m‑OCKRA 알고리즘을 재현한 실험 노트북입니다. 데이터 전처리, 하이퍼파라미터 탐색, 통계 검정과 시각화를 포함합니다. |
 | [**classification_chatbot**](https://github.com/peussd55/classification_chatbot) | 법정감염병 진단명을 입력하면 TF-IDF와 코사인 유사도로 최적 감염병 코드와 유사 질병명을 추천하는 Streamlit 기반 NLP 분류 앱입니다. |
 
+## 리뷰 논문 👋
+
+| 저장소 | 요약 |
+|---|---|
+| [**Transformer**](https://github.com/lemonade_paper_review_repo/Transformer.pdf) | Transformer & Seq2Seq with Attention 리뷰 |
+| [**GPT & BERT**](https://github.com/lemonade_paper_review_repo/Bert_GPT.pdf) | GPT-1·2·3 & BERT 사전학습 패러다임 리뷰 |
+| [**ViT & Swin 1,2**](https://github.com/lemonade_paper_review_repo/Vision-Transformer.pdf) | Vision Transformer & Swin Transformer v1/v2 리뷰 |
+| [**SAM 1,2**](https://github.com/lemonade_paper_review_repo/SAM2) | SAM & SAM 2 세그멘테이션 리뷰 |
+
 ---
 
 ## More About Me
