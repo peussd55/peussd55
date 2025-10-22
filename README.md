@@ -24,6 +24,5 @@
 | [**ViT & Swin 1,2**](https://peussd55.github.io/lemonade_paper_review_repo/Vision-Transformer.pdf) | Vision Transformer & Swin Transformer v1/v2 리뷰 |
 | [**SAM 1,2**](https://peussd55.github.io/lemonade_paper_review_repo/SAM2) | SAM & SAM 2 세그멘테이션 리뷰 |
 | [**2-Stage**](https://peussd55.github.io/lemonade_paper_review_repo/2-Stage.pdf) | 2-Stage : R-CNN -> Fast/Faster/Mask R-CNN 단계별 발전 리뷰 |
-| [**YOLO**](https://peussd55.github.io/lemonade_paper_review_repo/YOLO.pdf) | YOLO 계열의 단계별 발전 트렌드 리뷰 |
 
 ---
