@@ -25,6 +25,3 @@
 | [**SAM 1,2**](https://peussd55.github.io/lemonade_paper_review_repo/SAM2) | SAM & SAM 2 세그멘테이션 리뷰 |
 
 ---
-
-## More About Me
-- 💬 [Blog](https://peussd55.github.io/)
